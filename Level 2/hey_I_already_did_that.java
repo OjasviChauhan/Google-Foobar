@@ -42,7 +42,7 @@ public class Solution {
                 if(!str.equals(z)) count++;
                 else break;
             }
-            System.out.println(count+1);
+            System.out.println(count+1);  // Answer
         }
         else {
 	    	a.add(z);
