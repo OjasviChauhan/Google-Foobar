@@ -13,6 +13,7 @@ Languages
 =========
 
 To provide a Python solution, edit solution.py
+
 To provide a Java solution, edit Solution.java
 
 Test cases
@@ -22,22 +23,22 @@ Note that it may also be run against hidden test cases not shown here.
 
 -- Python cases --
 Input:
-solution.solution("abcabcabcabc")
+> solution.solution("abcabcabcabc")
 Output:
-    4
+    > 4
 
 Input:
-solution.solution("abccbaabccba")
+> solution.solution("abccbaabccba")
 Output:
-    2
+    > 2
 
 -- Java cases --
 Input:
-Solution.solution("abcabcabcabc")
+> Solution.solution("abcabcabcabc")
 Output:
-    4
+    > 4
 
 Input:
-Solution.solution("abccbaabccba")
+> Solution.solution("abccbaabccba")
 Output:
-    2
+   > 2
