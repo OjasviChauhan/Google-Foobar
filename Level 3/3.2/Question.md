@@ -21,23 +21,29 @@ Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
 -- Java cases --
+
 Input:
 Solution.solution([1, 1, 1])
+
 Output:
     1
 
 Input:
 Solution.solution([1, 2, 3, 4, 5, 6])
+
 Output:
     3
 
 -- Python cases --
+
 Input:
 solution.solution([1, 2, 3, 4, 5, 6])
+
 Output:
     3
 
 Input:
 solution.solution([1, 1, 1])
+
 Output:
     1
